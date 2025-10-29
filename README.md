@@ -45,27 +45,6 @@ It allows users to paste JSON data, visualize it as a hierarchical tree, search 
 
 ---
 
-## 🧩 Folder Structure
-
-json-tree-visualizer/
-├── src/
-│ ├── components/
-│ │ ├── JsonInput.jsx
-│ │ ├── SearchBar.jsx
-│ │ └── TreeVisualizer.jsx
-│ ├── utils/
-│ │ └── jsonToFlow.js
-│ ├── App.jsx
-│ ├── main.jsx
-│ └── index.css
-├── index.html
-├── package.json
-├── tailwind.config.js
-└── postcss.config.js
-
-
----
-
 ## ⚙️ Setup & Run Locally
 
 ### 1️⃣ Clone the Repository
