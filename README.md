@@ -49,5 +49,5 @@ It allows users to paste JSON data, visualize it as a hierarchical tree, search 
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/<your-username>/json-tree-visualizer.git
+git clone https://github.com/suarajyadavy676/json-tree-visualizer.git
 cd json-tree-visualizer
